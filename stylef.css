@@ -1,0 +1,4105 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.no2 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no3 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no4 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no5 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no6 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no7 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no8 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no9 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no10 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no11 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no12 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no13 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no14 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no15 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no16 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no17 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no18 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no19 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no20 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no21 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no22 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no23 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no24 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no25 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no26 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no27 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no28 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no29 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no30 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.no32 {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nog {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nop {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nope {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nod {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nopay {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.noni {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nopan {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.nofe {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
+.none {
+    .b {
+        background-image: url(./img/no-2.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .BE {
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(40px);
+        height: 100%;
+    }
+
+    .loo {
+        height: 80px;
+    }
+
+    .lo {
+        height: auto;
+
+        .lo1 {
+            width: 95px;
+            height: 95px;
+            margin: 0 auto;
+            border-radius: 50%;
+            background-image: url(./img/no-2.jpg);
+            background-size: 100%;
+            transition: 0.6s;
+
+
+        }
+
+        .lo1:hover {
+            width: 105px;
+            height: 105px;
+        }
+
+        .lot {
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            margin: 8px;
+            font-family: 'Lilita One', sans-serif;
+        }
+    }
+
+    .k {
+        padding: 10px;
+        z-index: 10;
+
+        .ku {
+            background-color: rgba(22, 22, 22, 0.719);
+            max-width: 600px;
+            height: auto;
+            margin: 0 auto;
+            border-radius: 7px;
+            box-shadow: 0px 0px 0px rgba(138, 128, 128, 0.123);
+            transition: 0.5s;
+            z-index: 10;
+
+
+            .t {
+                height: auto;
+                padding: 10px;
+                z-index: 10;
+
+
+                .tt {
+                    color: white;
+                    text-align: center;
+                    font-family: 'Lilita One', sans-serif;
+                    font-size: 20px;
+                    z-index: 10;
+
+                }
+
+                .ttt {
+                    color: white;
+                    word-wrap: break-word;
+                    margin: 7px;
+                    z-index: 10;
+
+                }
+            }
+        }
+    }
+
+    .m {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+
+        .mg {
+            background-image: url(./img/mg.png);
+            width: 150px;
+            height: 150px;
+            background-size: cover;
+        }
+    }
+}
